@@ -14,7 +14,6 @@ const Navbar = () => {
         }
     }
 
-
     return (
         <footer className="navbar">
             <nav className="navbarNav">
@@ -33,7 +32,6 @@ const Navbar = () => {
                     </li>
                 </ul>
             </nav>
-
         </footer>
     );
 };
